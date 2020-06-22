@@ -1,6 +1,6 @@
 # Pkgame
 
-### `Guessing Game`
+### `Guess Game`
           This is a Number Guessing game in Python.In this game you have to guess the Computer guessed number within the given chances.
 
   #### Demo view 
